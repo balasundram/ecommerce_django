@@ -27,7 +27,7 @@ with the help of command promt from the main directory where the files are store
 
 manage.py runserver
 
-![](django_server.png)
+![](djangoserver.png)
 
 #STORE django TEMPLATE
 
